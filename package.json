@@ -1,0 +1,14 @@
+{
+  "name": "alejandro_backend_node",
+  "version": "1.0.0",
+  "description": "Little Backend  in Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro Monteseirin Puig",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
