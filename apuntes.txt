@@ -1,1 +1,5 @@
 node --version
+instalar 
+-nodemon //refresco automatico
+-express //libreria utilizada para node
+-bodyParser //para obtener los body del request en el formato correcto
