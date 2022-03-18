@@ -1,5 +1,5 @@
 # Backend-Node.js
-Pequeño prototipo de Backend de un chat simple basado en Node.js.
+Pequeño prototipo de Backend de un chat simple basado en Node.js utilizando Express.
 
 
 La aplicación mantiene una lista de mensajes y permite tanto añadir mensajes como vaciar el listado.
